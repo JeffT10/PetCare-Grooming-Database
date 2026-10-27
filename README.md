@@ -37,8 +37,7 @@ Associative tables resolve many-to-many relationships between appointments and s
 * `sql/schema.sql` — creates tables and relational constraints.
 * `sql/sample_data.sql` — fictional test data.
 * `sql/queries.sql` — five reporting and data-review queries.
-* `documentation/data_dictionary.md` — table descriptions.
-* `documentation/relationships.md` — entity relationship diagram.
+- documentation/ — Original project design document with ERDs and background (PDF).
 
 ## Example SQL Queries
 
