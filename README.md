@@ -62,7 +62,6 @@ Use MySQL 8.0 or a compatible client.
 * `Payments.AppointmentID` is unique, representing at most one payment record per appointment.
 * Appointments can exist without a payment record so an exception query can flag records for review.
 * This is a coursework/portfolio design, not a deployed production system. It does not include a user interface, user authentication, automated appointment conflict prevention, or production security controls.
-* Do not upload real personal or medical information.
 
 ## Skills Demonstrated
 
